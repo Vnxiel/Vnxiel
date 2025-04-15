@@ -2,7 +2,7 @@
 - 👀 I’m interested in Tailwind CSS.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Bootstrap 5, and PHP.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me? You can contact me through my gmai: kristinejoy.briones20@gmail.com
+- 📫 How to reach me? You can contact me through my gmail: kristinejoy.briones20@gmail.com
 - 😄 Pronouns: ..
 - ⚡ Fun fact: I'm always lazy so I will be surprise to see myself suddenly watching and learning programming tutorials.
 
